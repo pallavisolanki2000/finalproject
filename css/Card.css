@@ -29,7 +29,7 @@ body{
 
 .card-image{
     grid-area: image;
-    background: url("2.png");
+    background: url("../images/2.png");
     border-top-left-radius: 15px;
     border-bottom-left-radius: 15px;
     background-size: cover;
